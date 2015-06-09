@@ -1,0 +1,27 @@
+body {
+}
+a {
+text-decoration: none;
+}
+#wrapper {
+max-width: 940px;
+  margin: 0 auto;
+  padding: 0;
+}
+#logo {
+text-align: center;
+  margin: 0;
+}
+
+a {
+color: #ffffff;
+}
+header {
+	background: red;
+}
+nav ul {
+list-style: none;
+}
+
+/*** body ***/
+
